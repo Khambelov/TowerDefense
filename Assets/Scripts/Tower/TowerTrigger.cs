@@ -44,5 +44,4 @@ public class TowerTrigger : MonoBehaviour
             isAimed = false;
         }
     }
-
 }
